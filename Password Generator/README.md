@@ -21,10 +21,9 @@ To get a local copy of this project up and running, follow these steps:
    git clone https://github.com/Khushikumari11/30days30jsprojects.git
    
 2. Navigate to the Password Generator project directory:
-
     ```bash
-  cd 30days30jsprojects/Password\ Generator
-
+    cd 30days30jsprojects/Password\ Generator
+    
 3.Open the index.html file in your preferred web browser.
 
 ## Usage
